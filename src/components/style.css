@@ -1,0 +1,27 @@
+.loading {
+  display: flex;
+  font-size: 34px;
+  height: 100vh;
+  justify-content: center;
+  justify-items: center;
+  background-color: rgba(54, 162, 235, 0.2);
+}
+
+.container {
+  display: flex;
+  position: absolute;
+  min-height: 600px;
+  min-width: 400px;
+  width: 100%;
+  justify-content: center;
+  align-content: center;
+}
+
+.barchar {
+  display: flex;
+  position: absolute;
+  min-height: 600px;
+  min-width: 400px;
+  margin: 20px 0;
+  width: 50%;
+}
